@@ -10,7 +10,7 @@ button.footer-button{
     padding:0px;
     border: 0px;
 }
-
+/* 
 .MuiButton-root	{
     color: #255965 !important;
     background-color: #ffd803 !important;
@@ -21,4 +21,67 @@ button.footer-button{
 
 .MuiTextField-root	{
     color: #fff !important;
-}
+} */
+
+
+
+
+
+@media (min-width: 320px) {
+    .MuiTypography-h4 {
+      margin: 0 !important;
+      font-size: 2rem !important;
+    }
+    .MuiTypography-h7 {
+      padding: 0px !important;
+    }
+    .MuiTypography-body2 {
+      padding: 0px 25px !important;
+    }
+  }
+  
+  @media (min-width: 600px) {
+    .MuiTypography-h4 {
+      padding-bottom: 15px !important;
+      font-size: 2.8rem !important;
+    }
+    .MuiTypography-h7 {
+      padding-top: 20px !important;
+      font-size: 1.6rem !important;
+    }
+    .MuiTypography-body2 {
+      margin: 0 auto !important;
+      padding: 30px 50px !important;
+      font-size: 1.4rem !important;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .MuiTypography-h4 {
+
+    }
+    .MuiTypography-h6 {
+
+    }
+    .MuiTypography-body2 {
+
+    }
+    .MuiTextField-root{
+
+    }
+    .MuiButton-root{
+        
+    }
+    .MuiButton-outlined{
+
+    }
+
+    .MuiSvgIcon-root{
+
+    }
+    .MuiSvgIcon-fontSizeLarge{
+
+    }
+    
+
+  } ;
