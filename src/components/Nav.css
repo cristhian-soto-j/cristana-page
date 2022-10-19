@@ -1,0 +1,17 @@
+@media (min-width: 320px) {
+  .MuiTypography-h6 {
+    padding: 0px !important;
+  }
+}
+@media (min-width: 600px) {
+  .MuiTypography-h6 {
+    padding: 0px !important;
+    font-size: 2.2rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .MuiTypography-h6 {
+    padding: 0px !important;
+    max-width: 100vw !important;
+  }
+} ;

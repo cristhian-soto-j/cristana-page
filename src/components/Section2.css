@@ -1,0 +1,22 @@
+.pasos {
+  display: flex;
+  flex: 0 0 33.3333% !important;
+  justify-content: center !important;
+}
+
+@media (min-width: 320px) {
+  .pasos {
+    margin-bottom: 5px !important;
+  }
+}
+
+@media (min-width: 600px) {
+  .pasos {
+    margin-bottom: 20px !important;
+  }
+}
+@media (min-width: 1200px) {
+  .pasos {
+    margin-bottom: 50px !important;
+  }
+} ;

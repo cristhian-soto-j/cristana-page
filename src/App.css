@@ -1,0 +1,21 @@
+@media (min-width: 320px) {
+  .MuiContainer-root {
+    padding: 0px !important;
+    margin-top: 40px !important;
+  }
+}
+@media (min-width: 600px) {
+  .MuiContainer-root {
+    padding: 0px !important;
+    margin-top: 50px !important;
+
+  }
+}
+@media (min-width: 1200px) {
+  .MuiContainer-root {
+    padding: 0px !important;
+    margin-top: 55px !important;
+    max-width: 100vw !important;
+
+  }
+} ;
