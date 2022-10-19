@@ -32,7 +32,6 @@ const Nav = () => {
           >
             CRISTANA
           </Typography>
-          {/* <Button color="inherit">buton</Button> */}
         </Toolbar>
       </AppBar>
   );

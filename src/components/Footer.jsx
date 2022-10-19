@@ -32,7 +32,7 @@ const Footer = () => {
           justifyContent: "center",
         }}
       >
-        <MailIcon fontSize="large"/>
+        <MailIcon fontSize="large" />
         <Typography
           variant="h6"
           sx={{ color: "#ffd803", letterSpacing: 2, ml: 1 }}
@@ -64,9 +64,17 @@ const Footer = () => {
           m: 2,
         }}
       >
-        <img className="logo" src={"src/assets/in-logo.png"} width={70}></img>
+        <img
+          className="logo"
+          src={"https://i.ibb.co/wLcgYG9/in-logo.png"}
+          width={70}
+        ></img>
 
-        <img className="logo" src={"src/assets/wa-logo.png"} width={70}></img>
+        <img
+          className="logo"
+          src={"https://i.ibb.co/drg5Jnk/wa-logo.png"}
+          width={70}
+        ></img>
 
         <img
           className="logo"
@@ -74,7 +82,11 @@ const Footer = () => {
           width={70}
         ></img>
 
-        <img className="logo" src={"src/assets/tele-logo.png"} width={70}></img>
+        <img
+          className="logo"
+          src={"https://i.ibb.co/z8r4MfX/tele-logo.png"}
+          width={70}
+        ></img>
 
         <img
           className="logo"
@@ -82,7 +94,11 @@ const Footer = () => {
           width={70}
         ></img>
 
-        <img className="logo" src={"src/assets/face-logo.png"} width={70}></img>
+        <img
+          className="logo"
+          src={"https://i.ibb.co/QMG1RWX/face-logo.png"}
+          width={70}
+        ></img>
       </Container>
       <Typography variant="body2" sx={{ color: "#D3DBDE", mb: 2 }}>
         CRISTANA© 2021. All rights reserved

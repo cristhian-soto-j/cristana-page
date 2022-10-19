@@ -29,7 +29,7 @@ const Section1 = () => {
         data-aos-easing="ease-in-sine"
         data-aos-duration="600"
       >
-        <img className="characters" src={"src/assets/Man1.png"} />
+        <img className="characters" src={"https://i.ibb.co/7vg93Lx/Man1.png"} />
       </div>
       <Container
         sx={{
@@ -57,7 +57,10 @@ const Section1 = () => {
         data-aos-easing="ease-in-sine"
         data-aos-duration="600"
       >
-        <img className="iphone" src={"src/assets/iphone-mockup.png"} />
+        <img
+          className="iphone"
+          src={"https://i.ibb.co/1Qsx8qy/iphone-mockup.png"}
+        />
       </div>
       <div
         className="aos-woman1"
@@ -66,7 +69,10 @@ const Section1 = () => {
         data-aos-easing="ease-in-sine"
         data-aos-duration="600"
       >
-        <img className="characters" src={"src/assets/Woman1.png"} />
+        <img
+          className="characters"
+          src={"https://i.ibb.co/FzdZzxV/Woman1.png"}
+        />
       </div>
 
       <Container
@@ -95,7 +101,7 @@ const Section1 = () => {
         data-aos-easing="ease-in-sine"
         data-aos-duration="900"
       >
-        <img className="characters" src={"src/assets/Man2.png"} />
+        <img className="characters" src={"https://i.ibb.co/WypfnRp/Man2.png"} />
       </div>
       <Container
         sx={{

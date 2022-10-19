@@ -39,22 +39,22 @@ const Section2 = () => {
         }}
       >
         <div className="pasos">
-          <img src={"src/assets/paso1.png"}></img>
+          <img src={"https://i.ibb.co/BzStnmP/paso1.png"}></img>
         </div>
         <div className="pasos">
-          <img src={"src/assets/paso2.png"}></img>
+          <img src={"https://i.ibb.co/NY0qfHJ/paso2.png"}></img>
         </div>
         <div className="pasos">
-          <img src={"src/assets/paso3.png"}></img>
+          <img src={"https://i.ibb.co/Z6jXyr8/paso3.png"}></img>
         </div>
         <div className="pasos">
-          <img src={"src/assets/paso4.png"}></img>
+          <img src={"https://i.ibb.co/Z2FjPvs/paso4.png"}></img>
         </div>
         <div className="pasos">
-          <img src={"src/assets/paso5.png"}></img>
+          <img src={"https://i.ibb.co/dtr57Cy/paso5.png"}></img>
         </div>
         <div className="pasos">
-          <img src={"src/assets/paso6.png"}></img>
+          <img src={"https://i.ibb.co/M9Z2Y85/paso6.png"}></img>
         </div>
       </Container>
     </Container>
